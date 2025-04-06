@@ -14,3 +14,7 @@ A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript where two players
 - `index.html` - The HTML structure of the game.
 - `style.css` - Styling for the game layout.
 - `script.js` - JavaScript for game logic and functionality.
+
+## Try the Game
+
+[Play Tic-Tac-Toe Game](https://swetha-krish.github.io/Fun-Projects/tic_tac_toe/index.html)
